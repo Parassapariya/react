@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 08 Dec 2023 16:26:25 at https://chawkbazar.vercel.app/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://chawkbazar.vercel.app/ -O1 "C:\react\EcomReact" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:28:36	Error: 	Unable to save file C:/react/EcomReact/chawkbazar.vercel.app/my-account: Permission denied
+16:28:42	Error: 	"Not Found" (404) at link https://chawkbazar.vercel.app/404 (from https://chawkbazar.vercel.app/)
+16:28:45	Error: 	Unable to save file C:/react/EcomReact/chawkbazar.vercel.app/my-account/orders: Permission denied
+16:28:46	Error: 	"Not Found" (404) at link https://chawkbazar.vercel.app/collections/icons/apple-icon-180.png (from https://chawkbazar.vercel.app/collections/mens-collection)
+16:28:46	Error: 	"Not Found" (404) at link https://chawkbazar.vercel.app/category/icons/apple-icon-180.png (from https://chawkbazar.vercel.app/category/man)
+16:28:46	Error: 	"Not Found" (404) at link https://chawkbazar.vercel.app/my-account/icons/apple-icon-180.png (from https://chawkbazar.vercel.app/my-account/orders)
+16:28:46	Error: 	"Not Found" (404) at link https://chawkbazar.vercel.app/my-account/orders/icons/apple-icon-180.png (from https://chawkbazar.vercel.app/my-account/orders/3203)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 21 seconds : 376 links scanned, 370 files written (33529780 bytes overall) [20424578 bytes received at 144855 bytes/sec], 16737143 bytes transferred using HTTP compression in 187 files, ratio 18%, 37.6 requests per connection
+(7 errors, 0 warnings, 0 messages)
